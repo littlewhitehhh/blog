@@ -1,1 +1,1 @@
-pnpm run lint:eslint
+npx lint-staged
