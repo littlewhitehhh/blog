@@ -1,5 +1,6 @@
 <template>
   <div>testPage</div>
+  <div>test lint-staged</div>
   <HelloWorld msg="hhh"></HelloWorld>
 </template>
 
