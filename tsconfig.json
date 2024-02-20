@@ -16,7 +16,10 @@
 
     "baseUrl": "./",
     "paths": {
-      "@/*": ["src/"]
+      "@/*": ["src/*"],
+      "@v/*": ["src/views/*"],
+      "@c/*": ["src/components/*"],
+      "@u/*": ["src/utils/*"]
     },
 
     /* Linting */

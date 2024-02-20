@@ -1,5 +1,5 @@
 <script setup lang="ts"></script>
 
-<template>HOME</template>
+<template>HOME INIT</template>
 
 <style scoped></style>
