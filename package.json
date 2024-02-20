@@ -13,6 +13,7 @@
     "commit": "git add . &&  git-cz"
   },
   "dependencies": {
+    "less": "^4.2.0",
     "vue": "^3.4.15"
   },
   "devDependencies": {
